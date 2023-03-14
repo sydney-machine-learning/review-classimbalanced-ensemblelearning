@@ -16,4 +16,4 @@ The above code can be used to evaluate combination of SMOTE and XGBoost on Ecoli
 ```
 !python3 main.py --help
 ```
-Above code can be used for help to know the options.
+Above code can be used for help to know the options of datasets, augmantation, and ensemble techniques.
