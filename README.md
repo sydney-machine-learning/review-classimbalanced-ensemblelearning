@@ -7,6 +7,7 @@ A review of class imbalanced problems using data augumentation and ensemble lear
 More information on datasets is provided in `Datasets/readme.txt`.
 
 We have benchmarked the datasets and combinations of data augmentation and ensemble learning techniques.
+
 The following code can be used to evaluate combination of SMOTE and XGBoost on Ecoli4 dataset. Similarly, other options can be explored. 
 
 ```
