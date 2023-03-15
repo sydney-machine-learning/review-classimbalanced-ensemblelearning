@@ -32,7 +32,7 @@ Ecoli0vs1 - 77/220			        (im; cp)
 Ecoli1 - 77/336			                (im; remainder)
 Ecoli2 - 52/336			                (pp; remainder)
 Ecoli3 - 35/ 336			        (cp; remainder)
-Ecoli4 - 20/336			                 (om; remainder)
-Ecoli0137vs26 - 7/282			         (omL,imS; cp,im,imU,om)
+Ecoli4 - 20/336			                (om; remainder)
+Ecoli0137vs26 - 7/282			        (omL,imS; cp,im,imU,om)
 
 AbaloneMIF - 3 Classes (Smallest 1307 samples)/4177
